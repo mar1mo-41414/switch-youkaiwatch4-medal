@@ -1,0 +1,18 @@
+start-note.md
+
+# Copyrighted game dumps / keys / derived output — never commit.
+Data/
+keys/
+work/*
+!work/*.py
+!work/*.java
+.venv/
+work/*.bin
+work/*.bin.json
+work/*.elf
+work/ghidra_proj/
+work/out/
+work/*.log
+upd/
+__pycache__/
+.DS_Store
